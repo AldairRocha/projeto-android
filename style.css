@@ -55,6 +55,17 @@ border-radius: 10px;
 }
 nav ul li{
     display: inline;
+    
+}
+a:hover{
+    
+    color: white;
+   
+    background-color: #463e05;
+    border-radius: 20px;
+    padding: 5px 5px 0px 1px;
+    
+    
 }
 main{
     margin:auto;
